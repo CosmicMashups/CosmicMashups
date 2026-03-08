@@ -55,26 +55,6 @@ Beyond programming, I explore the intersection of **technology and creativity** 
 
 ---
 
-# 🎵 Creative Work
-
-In addition to software development, I create **music mashups and digital audio projects**.
-
-I run the **CosmicMashups** YouTube channel where I experiment with anime mashups.
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CosmicMashups&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicMashups&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Contribution Activity
 
 <p align="center">

@@ -58,57 +58,11 @@ Beyond programming, I explore the intersection of **technology and creativity** 
 
 ---
 
-# 🚀 Featured Projects
-
-## Hangout Locator
-
-AI-powered location recommendation system designed to help users discover places to socialize based on preferences and behavioral data.
-
-**Key Features**
-
-- Survey-based user profiling  
-- Personalized recommendations using machine learning  
-- User behavior analysis  
-- Location discovery interface
-
----
-
-## MashHub
-
-A **music mashup project management platform** designed for mashup artists to organize, plan, and produce mashups more efficiently.
-
-**Key Features**
-
-- Song organization with **BPM and key metadata**
-- Section-based project planning
-- Creative workflow management
-- Structured mashup project system
-
----
-
-## Sleep Optimization App
-
-A behavioral analytics application designed to help users improve sleep quality through habit monitoring.
-
-**Key Features**
-
-- Screen-time-based sleep estimation  
-- Habit tracking  
-- Personalized sleep recommendations  
-- Data-driven insights
-
----
-
 # 🎵 Creative Work
 
 In addition to software development, I create **music mashups and digital audio projects**.
 
-I run the **CosmicMashups** YouTube channel where I experiment with:
-
-- Anime mashups
-- Audio engineering
-- Remix production
-- Creative sound design
+I run the **CosmicMashups** YouTube channel where I experiment with anime mashups.
 
 ---
 

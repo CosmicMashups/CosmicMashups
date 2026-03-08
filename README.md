@@ -7,18 +7,12 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0F1E&height=200&section=header&text=Yuri%20M.%20Brown&fontSize=40&fontColor=22C55E&animation=fadeIn"/>
-</p>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=22C55E&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+%26+Software+Engineer;Creative+Technologist;Building+Intelligent+Systems"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=22C55E&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+%26+Software+Engineer;Creative+Technologist;Building+Intelligent+Systems"/>
 </p>
 
 ---
 
-# 👋 Hello, I'm Yuri
+# 👋 Hello, I'm Yuri Brown!
 
 I am a **Computer Science student at De La Salle University – Dasmariñas** with strong interests in **Artificial Intelligence, Full-Stack Development, and Intelligent Software Systems**.
 

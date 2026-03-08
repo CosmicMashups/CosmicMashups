@@ -38,7 +38,7 @@ Beyond programming, I explore the intersection of **technology and creativity** 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,dart,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,dart,html,css"/>
 </p>
 
 ### Frameworks & Libraries
@@ -50,7 +50,7 @@ Beyond programming, I explore the intersection of **technology and creativity** 
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,github"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---

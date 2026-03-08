@@ -29,7 +29,6 @@ Beyond programming, I explore the intersection of **technology and creativity** 
 - Machine Learning  
 - Data Science  
 - Full-Stack Development  
-- Creative Technology  
 - Music Technology
 
 ---
@@ -39,13 +38,13 @@ Beyond programming, I explore the intersection of **technology and creativity** 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,dart,html,css"/>
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tensorflow,flask"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tensorflow,flask,flutter"/>
 </p>
 
 ### Tools & Technologies

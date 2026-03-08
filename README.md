@@ -3,6 +3,10 @@
 <!-- ========================================================= -->
 
 <p align="center">
+![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTMwZ2xsM2IwNmJlOTltaDdncW5mMDVwY3p0Zmx3OTRmd3ZveHFhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)
+</p>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0F1E&height=200&section=header&text=Yuri%20M.%20Brown&fontSize=40&fontColor=22C55E&animation=fadeIn"/>
 </p>
 

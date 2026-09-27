@@ -14,11 +14,11 @@
 
 # 👋 Hello, I'm Yuri Brown!
 
-I am a **Computer Science student at De La Salle University – Dasmariñas** with strong interests in **Artificial Intelligence, Full-Stack Development, and Intelligent Software Systems**.
+I am a **Summa Cum Laude Computer Science graduate at De La Salle University – Dasmariñas** with a **GWA of 3.92/4.00** and strong interests in **Artificial Intelligence, Full-Stack Development, and Intelligent Software Systems**.
 
-My work focuses on building systems that combine **software engineering, data analysis, and machine learning** to solve real-world problems.
+I build software that brings together **full-stack engineering, data analysis, and machine learning** to solve real-world problems, from enterprise business systems and intelligent applications to AI-powered prototypes.
 
-Beyond programming, I explore the intersection of **technology and creativity** through music mashups, digital media, and experimental software projects.
+Beyond software engineering, I explore the intersection of **technology and creativity** through music mashups, digital media, and experimental projects.
 
 ---
 
